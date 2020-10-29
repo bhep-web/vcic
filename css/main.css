@@ -158,7 +158,7 @@ nav .navbar-nav .nav-item-active .nav-link {
 }
 
 #filler-two {
-  background-image: url("../images/4.jpg");
+  background-image: url("../images/6.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
@@ -238,7 +238,7 @@ nav .navbar-nav .nav-item-active .nav-link {
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
-  height: 400px;
+  height: 800px;
 }
 #filler-three .overlay{
     text-align: center;
@@ -246,6 +246,13 @@ nav .navbar-nav .nav-item-active .nav-link {
     overflow: hidden;
     height: 100%;
     z-index: 2;
+}
+#filler-three .container{
+    padding-top: 100PX;
+}
+#filler-three h2{
+    color: #ffffff;
+    margin-bottom: 50px;
 }
 
 #undergrad{
@@ -366,7 +373,7 @@ nav .navbar-nav .nav-item-active .nav-link {
 }
 
 #filler-eight {
-  background-image: url("../images/9.jpg");
+  background-image: url("../images/6.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
@@ -379,4 +386,248 @@ nav .navbar-nav .nav-item-active .nav-link {
     min-height: 500px;
     z-index: 2;
     padding: 200px;
+}
+#filler-two-about button {
+  color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  background-color: rgba(265, 265, 265, 0.1);
+  margin-bottom: 50px;
+}
+#filler-two-about  button:hover {
+  color: #003262;
+  background-color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  margin-bottom: 50px;
+}
+
+#filler-two-u {
+  background-image: url("../images/UG Header.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#filler-two-u .overlay{
+    text-align: center;
+    background: rgba(0,0,0,0.8);
+    overflow: hidden;
+    min-height: 500px;
+    z-index: 2;
+    padding: 200px;
+}
+#filler-two-u h1 {
+  color: #ffffff;
+  font-size: 30;
+}
+#filler-two-u h3 {
+  color: #ffffff;
+}
+#filler-two-u h6 {
+  color: #ffffff;
+  margin-top: 10px;
+}
+#filler-two-u i {
+  background: rgba(265, 265, 265, 0.6);
+  padding:30px;
+  border-radius: 50%;
+  color: #003262;
+  border-color: #003262;
+  border-width: 5px;
+  border-style: solid;
+  margin: : 10px;
+}
+#filler-two-u i:hover {
+  background: rgba(265, 265, 265, 0.8);
+  padding:30px;
+  border-radius: 50%;
+  color: #003262;
+  border-color: #003262;
+  border-width: 5px;
+  border-style: solid;
+  margin: : 10px;
+}
+#filler-two-u .row {
+  margin-top: 50px
+}
+#filler-two-u a{
+  color: #FDB515;
+}
+#filler-two-u a:hover{
+  color: #e0a012;
+  text-decoration: none;
+}
+#filler-two-u button {
+  color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  background-color: rgba(265, 265, 265, 0.1);
+  margin-bottom: 50px;
+}
+#filler-two-u button:hover {
+  color: #003262;
+  background-color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  margin-bottom: 50px;
+}
+
+#filler-two-g {
+  background-image: url("../images/grad.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#filler-two-g .overlay{
+    text-align: center;
+    background: rgba(0,0,0,0.8);
+    overflow: hidden;
+    min-height: 500px;
+    z-index: 2;
+    padding: 200px;
+}
+#filler-two-g h1 {
+  color: #ffffff;
+  font-size: 30;
+}
+#filler-two-g h3 {
+  color: #ffffff;
+}
+#filler-two-g h6 {
+  color: #ffffff;
+  margin-top: 10px;
+}
+#filler-two-g i {
+  background: rgba(265, 265, 265, 0.6);
+  padding:30px;
+  border-radius: 50%;
+  color: #003262;
+  border-color: #003262;
+  border-width: 5px;
+  border-style: solid;
+  margin: : 10px;
+}
+#filler-two-g i:hover {
+  background: rgba(265, 265, 265, 0.8);
+  padding:30px;
+  border-radius: 50%;
+  color: #003262;
+  border-color: #003262;
+  border-width: 5px;
+  border-style: solid;
+  margin: : 10px;
+}
+#filler-two-g .row {
+  margin-top: 50px
+}
+#filler-two-g a{
+  color: #FDB515;
+}
+#filler-two-g a:hover{
+  color: #e0a012;
+  text-decoration: none;
+}
+#filler-two-g button {
+  color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  background-color: rgba(265, 265, 265, 0.1);
+  margin-bottom: 50px;
+}
+#filler-two-g button:hover {
+  color: #003262;
+  background-color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  margin-bottom: 50px;
+}
+
+
+#filler-two-s {
+  background-image: url("../images/Startups.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#filler-two-s .overlay{
+    text-align: center;
+    background: rgba(0,0,0,0.8);
+    overflow: hidden;
+    min-height: 500px;
+    z-index: 2;
+    padding: 200px;
+}
+#filler-two-s h1 {
+  color: #ffffff;
+  font-size: 30;
+}
+#filler-two-s h3 {
+  color: #ffffff;
+}
+#filler-two-s h6 {
+  color: #ffffff;
+  margin-top: 10px;
+}
+#filler-two-s i {
+  background: rgba(265, 265, 265, 0.6);
+  padding:30px;
+  border-radius: 50%;
+  color: #003262;
+  border-color: #003262;
+  border-width: 5px;
+  border-style: solid;
+  margin: : 10px;
+}
+#filler-two-s i:hover {
+  background: rgba(265, 265, 265, 0.8);
+  padding:30px;
+  border-radius: 50%;
+  color: #003262;
+  border-color: #003262;
+  border-width: 5px;
+  border-style: solid;
+  margin: : 10px;
+}
+#filler-two-s .row {
+  margin-top: 50px
+}
+#filler-two-s a{
+  color: #FDB515;
+}
+#filler-two-s a:hover{
+  color: #e0a012;
+  text-decoration: none;
+}
+#filler-two-s button {
+  color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  background-color: rgba(265, 265, 265, 0.1);
+  margin-bottom: 50px;
+}
+#filler-two-s button:hover {
+  color: #003262;
+  background-color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  margin-bottom: 50px;
 }
